@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d43d6335e7195e0c1e89d74914ef5170",
+    "revision": "5699ac3e7aaefc1fd632843560713cb3",
     "url": "/test-game-squares/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/test-game-squares/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "cbb594372b41ab952bdb",
+    "revision": "beca538ecc90e61b5bf7",
     "url": "/test-game-squares/static/css/main.8a87a8a8.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/test-game-squares/static/js/2.bd60935e.chunk.js.LICENSE"
   },
   {
-    "revision": "cbb594372b41ab952bdb",
-    "url": "/test-game-squares/static/js/main.32ebaf3b.chunk.js"
+    "revision": "beca538ecc90e61b5bf7",
+    "url": "/test-game-squares/static/js/main.76f3a67a.chunk.js"
   },
   {
     "revision": "b1a5fca32c2485fc791b",
